@@ -1,6 +1,6 @@
 import React, { memo } from "react";
 import styles from "../../../../styles/App/MonitoramentoView.module.css";
-import { coresNivelFalha, corPorValor } from "../../utils/interpretations";
+import { coresNivelFalha, corPorValor } from "../../utils/Interpretations";
 
 // ---------------------------------------------------------------------------
 // Anel de progresso SVG — cores neon para tema escuro
