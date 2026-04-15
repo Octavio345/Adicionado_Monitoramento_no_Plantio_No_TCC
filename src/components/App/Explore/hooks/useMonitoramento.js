@@ -1,5 +1,5 @@
 import { useState, useCallback, useEffect, useRef } from "react";
-import { analisarImagem, validarArquivo } from "../../../../services/monitoramentoService";
+import { analisarImagem, validarArquivo } from "../../../../services/Monitoramentoservice";
 /**
  * Hook de monitoramento de plantação.
  *
