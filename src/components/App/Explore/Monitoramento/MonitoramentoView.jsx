@@ -4,7 +4,7 @@ import UploadImage   from "./UploadImage";
 import OverlayResult from "./OverlayResult";
 import MetricsPanel  from "./MetricsPanel";
 import AlertBanner   from "./AlertBanner";
-import { interpretar } from "../../utils/interpretations";
+import { interpretar } from "../../utils/Interpretations";
 import styles from "../../../../styles/App/MonitoramentoView.module.css";
 
 /**
